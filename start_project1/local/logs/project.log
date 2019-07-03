@@ -1,0 +1,72 @@
+2019-06-20T02:17:03.824Z - normal: Load ~/.CocosCreator/settings.json
+2019-06-20T02:17:05.001Z - normal: Initializing Asset Database
+2019-06-20T02:17:05.004Z - normal: checking language setting...
+2019-06-20T02:17:05.004Z - normal: Language: zh
+2019-06-20T02:17:05.846Z - success: preview server running at http://localhost:7456
+2019-06-20T02:17:05.851Z - success: protocol editor-framework registered
+2019-06-20T02:17:05.851Z - success: protocol app registered
+2019-06-20T02:17:05.851Z - success: protocol theme registered
+2019-06-20T02:17:05.851Z - success: protocol packages registered
+2019-06-20T02:17:05.851Z - success: protocol uuid registerred
+2019-06-20T02:17:05.851Z - success: protocol db registerred
+2019-06-20T02:17:05.851Z - success: protocol thumbnail registerred
+2019-06-20T02:17:05.851Z - success: protocol unpack registerred
+2019-06-20T02:17:05.851Z - success: protocol disable-commonjs registerred
+2019-06-20T02:17:06.492Z - normal: connected!
+2019-06-20T02:17:06.493Z - normal: Check project D:\work\cocos\start_project
+2019-06-20T02:17:06.495Z - normal: Initializing project D:\work\cocos\start_project
+2019-06-20T02:17:06.976Z - normal: Initializing Cocos2d
+2019-06-20T02:17:07.796Z - normal: Initializing engine extends
+2019-06-20T02:17:07.839Z - success: asset-db-debugger loaded
+2019-06-20T02:17:07.844Z - success: baidu-adapter loaded
+2019-06-20T02:17:07.846Z - success: color-picker loaded
+2019-06-20T02:17:07.950Z - success: fb-audience-network loaded
+2019-06-20T02:17:08.030Z - success: fb-live-stream loaded
+2019-06-20T02:17:08.038Z - success: google-play-instant loaded
+2019-06-20T02:17:08.047Z - success: huawei-runtime loaded
+2019-06-20T02:17:08.346Z - success: cpk-publish loaded
+2019-06-20T02:17:08.347Z - success: jsb-adapter loaded
+2019-06-20T02:17:08.353Z - success: oppo-runtime loaded
+2019-06-20T02:17:08.358Z - success: package-manager loaded
+2019-06-20T02:17:08.492Z - success: qqplay-adapter loaded
+2019-06-20T02:17:08.495Z - success: runtime-dev-tools loaded
+2019-06-20T02:17:08.501Z - success: sdkbox loaded
+2019-06-20T02:17:08.509Z - success: tester loaded
+2019-06-20T02:17:08.513Z - success: ui-grid loaded
+2019-06-20T02:17:08.515Z - success: ui-kit-preview-extra loaded
+2019-06-20T02:17:08.517Z - success: ui-kit-preview loaded
+2019-06-20T02:17:08.519Z - success: ui-kit loaded
+2019-06-20T02:17:08.521Z - success: ui-tree loaded
+2019-06-20T02:17:08.527Z - success: vivo-runtime loaded
+2019-06-20T02:17:08.528Z - success: weapp-adapter loaded
+2019-06-20T02:17:08.529Z - success: xiaomi-adapter loaded
+2019-06-20T02:17:08.570Z - success: assets loaded
+2019-06-20T02:17:08.572Z - success: builder loaded
+2019-06-20T02:17:08.880Z - success: cocos-services loaded
+2019-06-20T02:17:08.885Z - success: console loaded
+2019-06-20T02:17:08.920Z - success: fb-instant-games loaded
+2019-06-20T02:17:08.922Z - success: google-instant-games loaded
+2019-06-20T02:17:08.926Z - success: hierarchy loaded
+2019-06-20T02:17:08.929Z - success: inspector loaded
+2019-06-20T02:17:08.930Z - success: keystore loaded
+2019-06-20T02:17:08.934Z - success: node-library loaded
+2019-06-20T02:17:08.936Z - success: package-asset loaded
+2019-06-20T02:17:08.937Z - success: preferences loaded
+2019-06-20T02:17:08.939Z - success: project-exporter loaded
+2019-06-20T02:17:08.940Z - success: project-importer loaded
+2019-06-20T02:17:08.942Z - success: project-settings loaded
+2019-06-20T02:17:08.946Z - success: scene loaded
+2019-06-20T02:17:08.947Z - success: simulator-debugger loaded
+2019-06-20T02:17:08.949Z - success: sprite-editor loaded
+2019-06-20T02:17:08.952Z - success: store loaded
+2019-06-20T02:17:08.955Z - success: timeline loaded
+2019-06-20T02:17:08.961Z - success: xiaomi-runtime loaded
+2019-06-20T02:17:10.227Z - normal: Loading packages
+2019-06-20T02:17:10.235Z - normal: Watching packages
+2019-06-20T02:17:11.200Z - normal: Run Application
+2019-06-20T02:17:13.093Z - info: Cocos Services load base data!
+2019-06-20T05:36:58.928Z - warn: Error: ipc timeout. message: scene:query-node, session: scene@renderer:93023
+2019-06-20T12:07:07.999Z - error: Window "main" crashed: [object Object]
+    at WebContents.nativeWin.webContents.on.e (C:\CocosCreator_2.0.10\resources\app.asar\editor-framework\lib\main\window.js:1:2607)
+    at emitTwo (events.js:106:13)
+    at WebContents.emit (events.js:194:7)
